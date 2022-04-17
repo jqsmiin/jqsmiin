@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on react
 - 🤔 I’m looking for help with design
 - 💬 Ask me about anything
-- 📫 How to reach me: @bryca83@gmail.com
+- 📫 How to reach me: bryca83@gmail.com
 
