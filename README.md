@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jasmin</h1>
 <h3 align="center">A passionate frontend developer from Bosnia</h3>
 
-- 🔭 I’m currently working on **javascript & react applications.**
+- 🔭 I’m currently working on **javascript & react applications**
 
 - 🌱 I’m currently learning **firebase & backend**
 
