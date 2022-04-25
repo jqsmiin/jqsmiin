@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **javascript & react applications.**
 
-- 🌱 I’m currently learning **firebase & backand**
+- 🌱 I’m currently learning **firebase & backend**
 
 - 👯 I’m looking to collaborate on **react**
 
