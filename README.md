@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **javascript & react applications**
 
-- 🌱 I’m currently learning **firebase & backend**
+- 🌱 I’m currently learning **backend**
 
 
 <h3 align="left">Languages and Tools:</h3>
