@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jasmin</h1>
 <h3 align="center">A passionate frontend developer from Bosnia</h3>
 
-- 🌱 I’m currently learning **MERN stack**
-
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me **jasmin.oruc23@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jasmin-oruč-287774261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasmin-oruč-287774261" height="30" width="40" /></a>
