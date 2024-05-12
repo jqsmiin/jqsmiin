@@ -5,7 +5,7 @@
   <a href="https://linkedin.com/in/jasmin-oruč-287774261" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasmin-oruč-287774261" height="30" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://portfolio-project-laxy23.vercel.app" target="_blank" rel="noreferrer">
+  <a href="https://portfolio-project-swart-chi.vercel.app" target="_blank" rel="noreferrer">
     <img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="jasmin-oruč-287774261" height="33" width="100" />
   </a>
 </p>
